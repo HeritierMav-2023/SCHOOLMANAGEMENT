@@ -37,6 +37,10 @@ C)Persistence project needs the following nuget packages
 
 D)WebAPI project needs the following nuget packages
 ->MediatR (12.0.1)
+
+![PostStudent](https://github.com/HeritierMav-2023/SCHOOLMANAGEMENT/assets/148790419/09b1e628-ecaf-4b76-a7d5-dad324cdea79)
+
+![PostStudent2](https://github.com/HeritierMav-2023/SCHOOLMANAGEMENT/assets/148790419/2305b4c2-aba0-4542-a787-6d81e736ee73)
 ->Microsoft.EntityFrameworkCore.Design (8.0.0)
 
 
