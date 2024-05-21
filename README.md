@@ -39,3 +39,5 @@ D)WebAPI project needs the following nuget packages
 ->MediatR (12.0.1)
 ->Microsoft.EntityFrameworkCore.Design (8.0.0)
 
+
+![GetbyIdStudent](https://github.com/HeritierMav-2023/SCHOOLMANAGEMENT/assets/148790419/9525a409-feec-4c2b-98ea-45af3d9d22ef)
